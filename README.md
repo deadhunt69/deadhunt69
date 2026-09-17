@@ -11,7 +11,7 @@ Electronics and embedded-systems engineer pursuing postgraduate studies in Illum
 
 ## Featured work
 
-### AstraSoC Validation Framework — Active MVP
+### [AstraSoC Validation Framework](https://github.com/deadhunt69/AstraSoC-Validation-Framework) — Active MVP
 Portable C and Python framework for pre-silicon-style SoC bring-up testing. The current host-model target validates boot flow, memory-mapped registers, SRAM patterns, DMA data integrity, and interrupt dispatch, with machine-readable test reports.
 
 ### Ardhangini Flight Controller — In development
