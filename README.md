@@ -14,6 +14,9 @@ Electronics and embedded-systems engineer pursuing postgraduate studies in Illum
 ### [AstraSoC Validation Framework](https://github.com/deadhunt69/AstraSoC-Validation-Framework) — Active MVP
 Portable C and Python framework for pre-silicon-style SoC bring-up testing. The current host-model target validates boot flow, memory-mapped registers, SRAM patterns, DMA data integrity, and interrupt dispatch, with machine-readable test reports.
 
+### [Mayer Haath Jewellery Store](https://github.com/deadhunt69/Mayer-Haath-Jewellery-Store) — Working portfolio
+Responsive handmade-jewellery storefront with cart management, validated checkout, UPI deep linking, and automatically generated WhatsApp order bills. Public source uses sanitized merchant configuration.
+
 ### Ardhangini Flight Controller — In development
 Custom STM32H743-based flight-controller platform exploring sensor integration, state estimation, embedded control, and future ROS/PX4 integration.
 
